@@ -4,9 +4,11 @@ Perform A/B testing by running simulations across sample data using bootstrappin
 Apply regression model to the data depending on the dependent variable outcome determination and determining what independent variable had max impact on the response i.e. conversion rate (probability of leading to purchase) of people visiting new vs old e comm website to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # Important questions answered
-Explanatory variable with highest impact on Conversion rate 
-p- value determination for different scenarios
 Null/ Alternative hypothesis determination 
+
+p- value determination for A/B testing vs Regression model approach
+
+Explanatory variable with highest impact on Conversion rate 
 
 # Sources
 https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression 
