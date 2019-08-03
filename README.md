@@ -9,8 +9,12 @@ p- value determination for different scenarios
 Null/ Alternative hypothesis determination 
 
 # Sources
-https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression https://classroom.udacity.com/nanodegrees/nd002/parts/bb0cbeb6-d3f8-4bae-9dc3-4abba3823e54/modules/82c7c576-88f5-43b6-80fc-c53378527a2d/lessons/b7ae43e6-204a-4816-a177-6c75115cae5f/concepts/f4fcfbc9-30ea-4086-b732-75a278dcdb59 
+https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression 
+
+https://classroom.udacity.com/nanodegrees/nd002/parts/bb0cbeb6-d3f8-4bae-9dc3-4abba3823e54/modules/82c7c576-88f5-43b6-80fc-c53378527a2d/lessons/b7ae43e6-204a-4816-a177-6c75115cae5f/concepts/f4fcfbc9-30ea-4086-b732-75a278dcdb59 
 
 https://classroom.udacity.com/nanodegrees/nd002/parts/bb0cbeb6-d3f8-4bae-9dc3-4abba3823e54/modules/82c7c576-88f5-43b6-80fc-c53378527a2d/lessons/49462f74-b030-4bb6-bf67-8281c9181404/concepts/df69d406-341a-4dd1-827d-31a85e9d8ac1
 
 https://matplotlib.org/gallery/lines_bars_and_markers/scatter_symbol.html?highlight=scatter%20symbol
+
+https://stackoverflow.com/questions/53148935/one-sample-test-for-proportion
