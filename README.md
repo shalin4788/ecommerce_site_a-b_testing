@@ -20,3 +20,5 @@ https://classroom.udacity.com/nanodegrees/nd002/parts/bb0cbeb6-d3f8-4bae-9dc3-4a
 https://matplotlib.org/gallery/lines_bars_and_markers/scatter_symbol.html?highlight=scatter%20symbol
 
 https://stackoverflow.com/questions/53148935/one-sample-test-for-proportion
+
+https://www.statisticssolutions.com/what-is-logistic-regression/
