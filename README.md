@@ -1,3 +1,5 @@
+# Hypothesis Testig and A/B Testing 
+
 # ecommerce_site_a/b_testing
 - Read a dataframe, cleanse data and unwanted data.
 - Perform A/B testing by running simulations across sample data using bootstrapping technique and defining hypothesis tests to reject/ accept null hypothesis based on p value determination and comparison with null values. Note: Hypothesis is defined based on the conversion rate comparison between old and new e-commerce sites
