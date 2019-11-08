@@ -1,14 +1,38 @@
 # ecommerce_site_a/b_testing
-Read a dataframe, cleanse data and unwanted data.
-Perform A/B testing by running simulations across sample data using bootstrapping technique and defining hypothesis tests to reject/ accept null hypothesis based on p value determination and comparison with null values. Note: Hypothesis is defined based on the conversion rate comparison between old and new e-commerce sites
-Apply regression model to the data depending on the dependent variable outcome determination and determining what independent variable had max impact on the response i.e. conversion rate (probability of leading to purchase) of people visiting new vs old e comm website to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+- Read a dataframe, cleanse data and unwanted data.
+- Perform A/B testing by running simulations across sample data using bootstrapping technique and defining hypothesis tests to reject/ accept null hypothesis based on p value determination and comparison with null values. Note: Hypothesis is defined based on the conversion rate comparison between old and new e-commerce sites
+- Apply regression model to the data depending on the dependent variable outcome determination and determining what independent variable had max impact on the response i.e. conversion rate (probability of leading to purchase) of people visiting new vs old e comm website to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+### Install
+
+This project requires **Python 3.x** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [StatsModels](https://www.statsmodels.org/stable/index.html)
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
+Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook finding_donors.ipynb
+```  
+or
+```bash
+jupyter notebook finding_donors.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
 
 # Important questions answered
-Null/ Alternative hypothesis determination 
-
-p- value determination for A/B testing vs Regression model approach
-
-Explanatory variable with highest impact on Conversion rate 
+- Null/ Alternative hypothesis determination 
+- p- value determination for A/B testing vs Regression model approach
+- Explanatory variable with highest impact on Conversion rate 
 
 # Sources
 https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression 
