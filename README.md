@@ -1,4 +1,4 @@
-# Hypothesis Testig and A/B Testing 
+# Hypothesis Testing and A/B Testing 
 
 # ecommerce_site_a/b_testing
 - Read a dataframe, cleanse data and unwanted data.
