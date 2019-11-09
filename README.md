@@ -22,11 +22,11 @@ Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook Analyze_ab_test_results_notebook.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook Analyze_ab_test_results_notebook.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
