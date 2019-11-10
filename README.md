@@ -19,7 +19,7 @@ Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `ecommerce_site_a-b_testing/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook Analyze_ab_test_results_notebook.ipynb
